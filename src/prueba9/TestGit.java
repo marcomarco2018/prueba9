@@ -14,5 +14,7 @@ public class TestGit {
         public void pruebas() {
         System.out.println("decime que pasa");
     }
-         
+         public void pruebas2() {
+        System.out.println("decime que pasa");
+    }
 }
